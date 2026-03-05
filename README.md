@@ -1,6 +1,12 @@
 # 🏛️ Daedalus Escape
 A 2D top-down puzzle game for PC where players navigate the mythological labyrinth of Daedalus. Solve puzzles, overcome darkness, and uncover the stories of Greek mythology while fighting to escape.
 
+# Made By
+Filip Tryhuk, Wojciech Zamarski, and Sebastian Zych.
+
+As part of our Master of Science in Computer Science studies at Cracow University of Technology, specializing in Intelligent Systems & Augmented Reality, we worked together on several academic projects.
+These projects were developed during courses such as Game Programming, Virtual and Augmented Reality Design, and Augmented Reality in Engineering Applications.
+
 ## Overview
 **Daedalus Escape** is a **PC puzzle game developed in Unity**.  
 Players take on the role of Daedalus, trapped inside his own labyrinth by King Minos. To escape, they must navigate a series of increasingly complex levels that challenge both logic and creativity. The game blends problem-solving mechanics with educational storytelling, introducing players to key figures and tales from Greek mythology.
